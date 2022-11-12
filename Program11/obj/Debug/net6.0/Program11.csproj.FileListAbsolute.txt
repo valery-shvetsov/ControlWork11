@@ -1,0 +1,15 @@
+C:\Users\S9057\Desktop\CW11\Program11\bin\Debug\net6.0\Program11.exe
+C:\Users\S9057\Desktop\CW11\Program11\bin\Debug\net6.0\Program11.deps.json
+C:\Users\S9057\Desktop\CW11\Program11\bin\Debug\net6.0\Program11.runtimeconfig.json
+C:\Users\S9057\Desktop\CW11\Program11\bin\Debug\net6.0\Program11.dll
+C:\Users\S9057\Desktop\CW11\Program11\bin\Debug\net6.0\Program11.pdb
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\Program11.csproj.AssemblyReference.cache
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\Program11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\Program11.AssemblyInfoInputs.cache
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\Program11.AssemblyInfo.cs
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\Program11.csproj.CoreCompileInputs.cache
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\Program11.dll
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\refint\Program11.dll
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\Program11.pdb
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\Program11.genruntimeconfig.cache
+C:\Users\S9057\Desktop\CW11\Program11\obj\Debug\net6.0\ref\Program11.dll
